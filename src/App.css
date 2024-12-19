@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+.box {
+  background: #000;
+  height: 80%;
+  width: 50%;
+}
